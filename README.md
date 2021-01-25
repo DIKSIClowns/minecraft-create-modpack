@@ -2,7 +2,7 @@
 
 ## Установка
 **Подразумевается, что майнкрафт и фордж уже установлены.**
-Версия майнкрафта - 1.16.5, ссылка на Forge - [Forge](https://adfoc.us/serve/sitelinks/?id=271228&url=https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.0.1/forge-1.16.5-36.0.1-installer.jar "Download Forge")
+Версия майнкрафта - 1.16.5, ссылка на Forge - [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.0.1/forge-1.16.5-36.0.1-installer.jar "Download Forge")
 
 ### Первый вариант (рекомендуется, потому что потом будет удобней обновлять):
 1) Установить [GIT](https://github.com/git-for-windows/git/releases/download/v2.30.0.windows.2/Git-2.30.0.2-64-bit.exe "Download GIT");
