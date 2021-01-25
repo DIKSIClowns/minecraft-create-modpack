@@ -8,7 +8,7 @@
 1) Установить [GIT](https://github.com/git-for-windows/git/releases/download/v2.30.0.windows.2/Git-2.30.0.2-64-bit.exe "Download GIT");
 2) Зайти в папку с модами (`%AppData%\.minecraft\mods`), создать такую, если отсутствует. Полностью очистить содержимое папки;
 3) В этой папке открыть консоль (`cmd` в поле пути в проводнике);
-4) В консоли написать `git clone https://github.com/DIKSIClowns/minecraft-create-modpack.git .`.  
+4) В консоли написать `git clone https://github.com/DIKSIClowns/minecraft-create-modpack.git .` (**обратите внимание на точку в конце!**).  
 
 Сборка установлена.
 ### Второй вариант:
